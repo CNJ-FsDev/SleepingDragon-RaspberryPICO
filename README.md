@@ -19,7 +19,7 @@ in turn to form a Colorful flowing light.
   - 10x Male-Male short line
 
 <div align="left">
-<h3><b>What us Sleeping dragon and how does it work?</b></h3>
+<h3><b>What is Sleeping dragon and how does it work?</b></h3>
 1.Breadboard:
 <p>Breadboard is designed and manufactured for solderless experimentation of electronic circuits. Since there are many small jacks on the board, various electronic components can be inserted or pulled
 out at will, eliminating the need for soldering and saving the assembly time of the circuit, and the
